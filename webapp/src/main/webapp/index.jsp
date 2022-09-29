@@ -32,6 +32,5 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h2> Deploying on Container using Ansible </h2>
   
 </form>
